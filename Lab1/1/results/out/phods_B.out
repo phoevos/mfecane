@@ -1,0 +1,55 @@
+Block size: 1
+	Execution 1: Time 0.004519
+	Execution 2: Time 0.003439
+	Execution 3: Time 0.003496
+	Execution 4: Time 0.003490
+	Execution 5: Time 0.003537
+	Execution 6: Time 0.003565
+	Execution 7: Time 0.003067
+	Execution 8: Time 0.003320
+	Execution 9: Time 0.003168
+	Execution 10: Time 0.003032
+Block size: 2
+	Execution 1: Time 0.001894
+	Execution 2: Time 0.001945
+	Execution 3: Time 0.002361
+	Execution 4: Time 0.001995
+	Execution 5: Time 0.002207
+	Execution 6: Time 0.001905
+	Execution 7: Time 0.002021
+	Execution 8: Time 0.001917
+	Execution 9: Time 0.002342
+	Execution 10: Time 0.002020
+Block size: 4
+	Execution 1: Time 0.001741
+	Execution 2: Time 0.001692
+	Execution 3: Time 0.001621
+	Execution 4: Time 0.001768
+	Execution 5: Time 0.001616
+	Execution 6: Time 0.001676
+	Execution 7: Time 0.001744
+	Execution 8: Time 0.001697
+	Execution 9: Time 0.001544
+	Execution 10: Time 0.001890
+Block size: 8
+	Execution 1: Time 0.001731
+	Execution 2: Time 0.001410
+	Execution 3: Time 0.001476
+	Execution 4: Time 0.001638
+	Execution 5: Time 0.001536
+	Execution 6: Time 0.001591
+	Execution 7: Time 0.002109
+	Execution 8: Time 0.001770
+	Execution 9: Time 0.001742
+	Execution 10: Time 0.001568
+Block size: 16
+	Execution 1: Time 0.001603
+	Execution 2: Time 0.001393
+	Execution 3: Time 0.001360
+	Execution 4: Time 0.001787
+	Execution 5: Time 0.001599
+	Execution 6: Time 0.001559
+	Execution 7: Time 0.001526
+	Execution 8: Time 0.001442
+	Execution 9: Time 0.001402
+	Execution 10: Time 0.001492
