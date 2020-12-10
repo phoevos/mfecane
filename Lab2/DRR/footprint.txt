@@ -1,0 +1,12 @@
+SLL_CL:
+    SLL_PK: 798.8 KB
+    DLL_PK: 980.3 KB
+    DYN_PK: 1.111 MB
+DLL_CL:
+    SLL_PK: 823.0 KB
+    DLL_PK: 983.3 KB
+    DYN_PK: 1.132 MB
+DYN_ARR_CL:
+    SLL_PK: 760.2 KB
+    DLL_PK: 928.5 KB
+    DYN_PK: 1.075 MB
