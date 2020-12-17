@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# ffs I can't get the Makefile to work, use this to compile tests.
+
 gcc -Wall -c ../strlen.s
 gcc -Wall -c ../strcpy.s
 gcc -Wall -c ../strcmp.s
